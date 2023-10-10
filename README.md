@@ -12,3 +12,6 @@ Tips and Explanations: Each code example is accompanied by explanations and tips
 Beginner-Friendly: Whether you're new to programming or transitioning from another language, these practice codes are tailored to make your Python learning experience smooth and enjoyable.
 
 Collaboration: If you're feeling confident, feel free to collaborate by adding your own basic Python practice exercises to this repository. Sharing knowledge is a great way to foster a supportive learning community.
+
+**Note:** I'll be continuously adding more practice codes and exercises to this repository, so be sure to check back regularly for new learning material and challenges. Your Python journey doesn't end here—it's just the beginning!
+
